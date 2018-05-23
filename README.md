@@ -20,6 +20,11 @@ Install this into your project with:
 npm install --save-dev ids-identity
 ```
 
+To install the libaries globally:
+```
+npm install --save-dev -g ids-identity
+```
+
 Then look in `node_modules/ids-identity` for the assets.
 
 ## Building Assets Locally
